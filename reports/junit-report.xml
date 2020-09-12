@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="test-online-calculator-scenarios;two-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;two-value-operation" time="5.594570401">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;two-value-operation" time="0.0023146">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;two-value-operation" time="4.1627651">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;two-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;two-value-operation" time="4.9761196">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;two-value-operation" time="0.0019473">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;two-value-operation" time="4.1155114">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;two-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;two-value-operation" time="5.0561319">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;two-value-operation" time="0.001386601">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;two-value-operation" time="4.096615501">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;two-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;two-value-operation" time="4.8853873">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;two-value-operation" time="0.001336801">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;two-value-operation" time="4.098910599">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;two-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;two-value-operation" time="4.927564">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;two-value-operation" time="0.0013143">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;two-value-operation" time="4.0822567">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;single-value-operation" time="4.8843642">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;single-value-operation" time="0.0011544">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;single-value-operation" time="4.088447199">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;single-value-operation" time="4.922133401">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;single-value-operation" time="0.001072699">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;single-value-operation" time="4.090607">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;single-value-operation" time="4.937653801">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;single-value-operation" time="0.0010349">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;single-value-operation" time="4.106299399">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;single-value-operation" time="4.8874243">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;single-value-operation" time="0.001029599">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;single-value-operation" time="4.086540501">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;single-value-operation" time="4.931902299">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;single-value-operation" time="0.0009951">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;single-value-operation" time="4.0949515">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;boundary-test---two-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;boundary-test---two-value-operation" time="4.9980157">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;boundary-test---two-value-operation" time="0.001216499">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;boundary-test---two-value-operation" time="4.0839332">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;boundary-test---two-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;boundary-test---two-value-operation" time="4.915743001">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;boundary-test---two-value-operation" time="0.0012432">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;boundary-test---two-value-operation" time="4.1008569">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;boundary-test---single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.9251011">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="0.001030599">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.085053099">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;boundary-test---single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.910839701">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="0.000997701">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.084986801">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;boundary-test---single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.9364447">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="0.0009808">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.080514999">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;boundary-test---single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.9246293">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="0.000973899">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.0830757">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;boundary-test---single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.918151899">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="0.0009956">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.0879843">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;boundary-test---single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.9217716">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="0.000992899">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.0811192">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;boundary-test---single-value-operation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.881562201">
+        </testcase>
+        <testcase name="When I enter single value with operator only button" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="0.0009877">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;boundary-test---single-value-operation" time="4.0828703">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;error-handling-test" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;error-handling-test" time="4.943582301">
+        </testcase>
+        <testcase name="When I enter a chain of input" classname="test-online-calculator-scenarios;error-handling-test" time="0.0005689">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;error-handling-test" time="4.097468099">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;error-handling-test" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;error-handling-test" time="4.9220145">
+        </testcase>
+        <testcase name="When I enter a chain of input" classname="test-online-calculator-scenarios;error-handling-test" time="0.000496601">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;error-handling-test" time="4.0977309">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;error-handling-test" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;error-handling-test" time="4.935014799">
+        </testcase>
+        <testcase name="When I enter a chain of input" classname="test-online-calculator-scenarios;error-handling-test" time="0.000522101">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;error-handling-test" time="4.099965">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;special-and-complex-calculation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.907046299">
+        </testcase>
+        <testcase name="When I enter a chain of input" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="0.0005208">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.091220801">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;special-and-complex-calculation" tests="3" failures="1" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.8560228">
+        </testcase>
+        <testcase name="When I enter a chain of input" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="0.0005025">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.2520434">
+            <failure message="AssertionError [ERR_ASSERTION]: Image return does not match with expectedImage folder images">AssertionError [ERR_ASSERTION]: Image return does not match with expectedImage folder images
+    at createWorld.&lt;anonymous&gt; (C:\Users\P for Programming\Documents\GitHub\xendit-qa-assessment\step-definitions\calculator-steps.js:42:69)</failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;special-and-complex-calculation" tests="3" failures="1" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.9985202">
+        </testcase>
+        <testcase name="When I enter a chain of input" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="0.0005008">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.2080348">
+            <failure message="AssertionError [ERR_ASSERTION]: Image return does not match with expectedImage folder images">AssertionError [ERR_ASSERTION]: Image return does not match with expectedImage folder images
+    at createWorld.&lt;anonymous&gt; (C:\Users\P for Programming\Documents\GitHub\xendit-qa-assessment\step-definitions\calculator-steps.js:42:69)</failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;special-and-complex-calculation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.938514101">
+        </testcase>
+        <testcase name="When I enter a chain of input" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="0.000496299">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.0800974">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;special-and-complex-calculation" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.965570699">
+        </testcase>
+        <testcase name="When I enter a chain of input" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="0.000496199">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.078877601">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;special-and-complex-calculation" tests="3" failures="1" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/P for Programming/Documents/GitHub/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.9353538">
+        </testcase>
+        <testcase name="When I enter a chain of input" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="0.0011715">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;special-and-complex-calculation" time="4.1870291">
+            <failure message="AssertionError [ERR_ASSERTION]: Image return does not match with expectedImage folder images">AssertionError [ERR_ASSERTION]: Image return does not match with expectedImage folder images
+    at createWorld.&lt;anonymous&gt; (C:\Users\P for Programming\Documents\GitHub\xendit-qa-assessment\step-definitions\calculator-steps.js:42:69)</failure>
+        </testcase>
+    </testsuite>
+</testsuites>

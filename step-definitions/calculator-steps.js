@@ -14,10 +14,11 @@ module.exports = function () {
     this.When(/^I enter following values and press = button$/, async function (dataTable) {
         
         sendKey(dataTable.raw()[0][1]);
-        sendKey(dataTable.raw()[1][1]);
-        sendKey(dataTable.raw()[2][1]);
-        sendKey('=');
-
+        sendKey(dataTable.raw()[1][1]); 
+        if (dataTable.raw()[1][1] != 'ne') {
+            sendKey(dataTable.raw()[2][1]);
+            sendKey('=');
+        }
     });
 
     this.When(/^I enter single value with operator only button$/, async function (dataTable) {
@@ -28,12 +29,17 @@ module.exports = function () {
 
     });
 
+    this.When(/^I enter a chain of input$/, async function (dataTable) {
+        
+        sendKey(dataTable.raw()[0][1]);
+    });
+
     this.Then(/^I should be able to see$/, async function (table) {
        var expectedValue = table.raw()[0][1];
        await new Promise(r => setTimeout(r, 2000));
        var returnImagePath = takeScreenshot(expectedValue);
        await new Promise(r => setTimeout(r, 2000));
-       if(!imageCompare(returnImagePath, expectedValue)) { fail('Image return does not match with expectedImage folder images') };
+       if(!verifyviaImageCompare(returnImagePath, expectedValue)) { fail('Image return does not match with expectedImage folder images') };
     });
 
     this.After(async function() {
@@ -44,7 +50,7 @@ module.exports = function () {
         driver.findElement(By.xpath('//body')).sendKeys(values);
     }
 
-    function imageCompare(ImagePathForVerification, expectedValue) {
+    function verifyviaImageCompare(ImagePathForVerification, expectedValue) {
         const fs = require('fs');
         const PNG = require('pngjs').PNG;
         const pixelmatch = require('pixelmatch');
@@ -55,9 +61,10 @@ module.exports = function () {
         const diff = new PNG({width, height});
         
         var numberDiff = pixelmatch(img1.data, img2.data, diff.data, width, height, {threshold: 0.1});
-        //fs.writeFileSync('./unexpectedResult/expectingValue'+ expectedValue  +'diff.png', PNG.sync.write(diff));
-        process.stdout.write("Pixel different: "+ numberDiff);
-        return numberDiff > 0 ? false : true; //should be identical
+        
+        if (numberDiff > 0) { fs.writeFileSync('./unexpectedResult/expectingValue'+ expectedValue  +'diff.png', PNG.sync.write(diff)); }
+
+        return numberDiff > 0 ? false : true;
     }
 
     function takeScreenshot(expectedValue) {
@@ -130,8 +137,5 @@ module.exports = function () {
         });
 
         return imagePath;
-    }
-
-    function verify_calculatedAmount(localFilePath) { 
     }
 };
